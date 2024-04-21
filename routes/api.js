@@ -22,6 +22,8 @@ module.exports = function (app) {
     .get(function (req, res){
       let responseObject = {}
       responseObject['stockData'] = {}
+
+      let twoStocks = false
       
     });
     
